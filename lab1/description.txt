@@ -1,3 +1,0 @@
-Contains the 1st assignment/project based on f1tenth version of evader-pursuer.
-
-Only the part of evader.py is developed by me, the rest was handed over to us as a template.
