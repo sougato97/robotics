@@ -1,0 +1,3 @@
+Contains the f1tenth version of the evader-pursuer assignment.
+
+Only the part of evader.py is developed by me.
