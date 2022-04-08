@@ -1,3 +1,5 @@
 # robotics
 
-Contains some of the assignments from CSE 468/568 (University at Buffalo)
+Contains some of my assignments from Robotics Algorithm course. 
+
+I have shared this repo as public only for strengthening my profile. Please do not copy these assignments. 
